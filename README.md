@@ -2,10 +2,10 @@
 > https://child-robot-interaction.github.io/
 
 ## Important dates
-February 13, 2023 Submission deadline
-February 27, 2023 Acceptance notification
-March 6, 2023 Publication abstracts
-March 13, 2023 Workshop
+February 13, 2023 Submission deadline   
+February 27, 2023 Acceptance notification   
+March 6, 2023 Publication abstracts   
+March 13, 2023 Workshop   
 
 ## Topics
 Potential topics for submission include, but are not limited to:
