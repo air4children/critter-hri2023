@@ -1,6 +1,6 @@
-
 # HRI'23 CRITTER Workshop Submission Form
-> For more information about the workshop see: https://child-robot-interaction.github.io/
+> For more information about the workshop see: https://child-robot-interaction.github.io/  
+https://forms.gle/mFvX9CdD57UjU12w6   
 
 ## Author details: 
 Name: 
