@@ -1,6 +1,7 @@
-# Measuring engagement and collaboration in CRI activities
+# [add title]
 
 ## Abstract 
+[add abstract]
 
 ## Workshop Name: CRITTER: Child-Robot Interaction and Interdisciplinary Research
 >  CRITTER: Child-Robot Interaction and Interdisciplinary Research Workshop @HRI2023, Stockholm, Sweden
