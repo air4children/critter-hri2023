@@ -1,10 +1,13 @@
-# [add title]
+# Challenges in Child-Robot Interaction, cHRI, in low-resource and middle-resource countries
+> Miguel Xochicale
 
 ## Abstract 
-[add abstract]
+The field of Child-Robot Interaction, cHRI, has made great progress in the last decade, creating new child-centred programs, advancing the educational infrastructure with new code and software and open sourcing new datasets. 
+cHRI faces different challenges in developing countries, including India, South Africa, Mexico, and Brazil. For instance, the project artificial intelligence and robotics for children, air4children, has been combining open-source hardware and software and non-traditional education to teach fundamentals of AI and Robotics in a small town in Mexico since 2014. 
+However, there are various challenges in low-resource countries: (a) the little to none experts in Robotics and AI, (b) the high-cost of educational material (both for software and hardware), (c) the limited child-centred material aligned to the values of their communities, and (d) the qualitative and quantitative evaluation instruments for engagement and collaboration in cHRI activities. 
+Hence, the aim of this abstract is to discuss state-of-the-art challenges and potential solutions of cHRI in low-income countries such as increasing research funding, establishing networks, communities and facilities, fostering international collaborations and creating training programs.
 
-## Workshop Name: CRITTER: Child-Robot Interaction and Interdisciplinary Research
->  CRITTER: Child-Robot Interaction and Interdisciplinary Research Workshop @HRI2023, Stockholm, Sweden
+## CRITTER: Child-Robot Interaction and Interdisciplinary Research Workshop (13th of March 2023, Stockholm, Sweden)
 https://child-robot-interaction.github.io/
 
 ## Licence and Citation 
