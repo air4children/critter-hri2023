@@ -1,19 +1,37 @@
-# CRITTER: Child-Robot Interaction and Interdisciplinary Research
-> https://child-robot-interaction.github.io/
+# Challenges in Child-Robot Interaction, cHRI, in low-resource and middle-resource countries
+> Miguel Xochicale
 
-## Important dates
-February 13, 2023 Submission deadline   
-February 27, 2023 Acceptance notification   
-March 6, 2023 Publication abstracts   
-March 13, 2023 Workshop   
+## Abstract 
+The field of Child-Robot Interaction, cHRI, has made great progress in the last decade, creating new child-centred programs, advancing the educational infrastructure with new code and software and open sourcing new datasets. 
+cHRI faces different challenges in developing countries, including India, South Africa, Mexico, and Brazil. For instance, the project artificial intelligence and robotics for children, air4children, has been combining open-source hardware and software and non-traditional education to teach fundamentals of AI and Robotics in a small town in Mexico since 2014. 
+However, there are various challenges in low-resource countries: (a) the little to none experts in Robotics and AI, (b) the high-cost of educational material (both for software and hardware), (c) the limited child-centred material aligned to the values of their communities, and (d) the qualitative and quantitative evaluation instruments for engagement and collaboration in cHRI activities. 
+Hence, the aim of this abstract is to discuss state-of-the-art challenges and potential solutions of cHRI in low-income countries such as increasing research funding, establishing networks, communities and facilities, fostering international collaborations and creating training programs.
 
-## Topics
-Potential topics for submission include, but are not limited to:
-* Quantitative and/or qualitative research methodology to assess child-robot interactions;
-* Theoretical reflections on the conceptualization and/or operationalization of constructs relevant to CRI;
-* Ethical reflections on settings and methods in/by which to assess child-robot interactions;
-* Design and technical implementation (Wizard of Oz, autonomous, or semi-autonomous) of robot systems and CRI scenarios;
-* And creation of appropriate and effective interaction content and social robot behaviors.
+## Slides
+3 minutes, with 2 minutes for Q&A
 
-## Format
-Participants will be invited to submit a 250 word abstract focusing on the central topic of interdisciplinary research in CRI. All submissions should include a reflection on key challenges in conducting CRI research (either from an empirical or theoretical/ethical viewpoint). Study proposals which fit the theme of the workshop will also be considered.
+## CRITTER: Child-Robot Interaction and Interdisciplinary Research Workshop (13th of March 2023, Stockholm, Sweden)
+https://child-robot-interaction.github.io/
+
+## Licence and Citation 
+This work is under Creative Commons Attribution-Share Alike license [![License: CC BY-SA 4.0](https://licensebuttons.net/l/by-sa/4.0/80x15.png)](https://creativecommons.org/licenses/by-sa/4.0/). 
+Hence, you are free to reuse it and modify it as much as you want and as long as you cite [this work](https://github.com/air4children/hri2023) as original reference and you re-share your work under the same terms.
+
+### Cite as
+
+### BibTeX to cite
+```
+
+```
+
+## Clone repository
+After generating your SSH keys as suggested [here](https://docs.github.com/en/github/authenticating-to-github/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent) or [here](https://github.com/mxochicale/tools/blob/main/github/SSH.md) with few personal notes.
+You can then clone the repository by typing (or copying) the following line in a terminal at your selected path in your machine:
+```
+mkdir -p $HOME/repositories/air4children/ && cd $HOME/repositories/air4children/
+git clone git@github.com:air4children/critter-hri2023.git
+```
+
+## Contact 
+If you have specific questions about the content of this repository, you can drop us an email to [air4children@gmail.com](mailto:air4children@gmail.com?subject="[dei-hri2023-questions]").
+If your question might be relevant to other people, please instead [open an issue](https://github.com/air4children/critter-hri2023/issues).
