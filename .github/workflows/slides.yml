@@ -4,6 +4,7 @@ on:
     branches:
       - main
       - 3-slides
+      - 3-final-slides
       - adds-branch-name
 
 jobs:
