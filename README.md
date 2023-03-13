@@ -1,4 +1,4 @@
-# Challenges in Child-Robot Interaction, cHRI, in low-resource and middle-resource countries
+# Challenges in Child-Robot Interaction, cHRI, in low-resource and middle-resource income countries
 > Miguel Xochicale
 
 ## Abstract 
