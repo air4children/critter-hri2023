@@ -2,7 +2,7 @@ name: Compiling-TeX-Slides
 on:
   push:
     branches:
-      - no-main
+      - main
       - 3-slides
       - adds-branch-name
 
