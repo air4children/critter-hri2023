@@ -8,7 +8,8 @@ However, there are various challenges in low-resource countries: (a) the little 
 Hence, the aim of this abstract is to discuss state-of-the-art challenges and potential solutions of cHRI in low-income countries such as increasing research funding, establishing networks, communities and facilities, fostering international collaborations and creating training programs.
 
 [![slides](https://img.shields.io/badge/see-slides-blue.svg)](https://github.com/air4children/critter-hri2023/blob/pdfs/slides.pdf) 
-[![CI](https://github.com/air4children/critter-hri2023/actions/workflows/citex.yml/badge.svg)](https://github.com/air4children/critter-hri2023/actions/workflows/citex.yml)
+[![CI-Latex](https://github.com/air4children/critter-hri2023/actions/workflows/citex.yml/badge.svg)](https://github.com/air4children/critter-hri2023/actions/workflows/slides.yml)
+
 **(This work is 100% Reproducible)**
 
 
