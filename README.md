@@ -7,6 +7,9 @@ cHRI faces different challenges in developing countries, including India, South 
 However, there are various challenges in low-resource countries: (a) the little to none experts in Robotics and AI, (b) the high-cost of educational material (both for software and hardware), (c) the limited child-centred material aligned to the values of their communities, and (d) the qualitative and quantitative evaluation instruments for engagement and collaboration in cHRI activities. 
 Hence, the aim of this abstract is to discuss state-of-the-art challenges and potential solutions of cHRI in low-income countries such as increasing research funding, establishing networks, communities and facilities, fostering international collaborations and creating training programs.
 
+[![slides](https://img.shields.io/badge/see-slides-blue.svg)](https://github.com/air4children/critter-hri2023/blob/pdfs/slides.pdf) 
+[![Compiling-TeX-Slides](https://github.com/air4children/critter-hri2023/actions/workflows/slides.yml/badge.svg)](https://github.com/air4children/critter-hri2023/actions/workflows/slides.yml) **(This work is 100% Reproducible with [free-cortex-framework](https://github.com/free-cortex/framework/tree/main/workflow))**
+
 ## Slides
 3 minutes, with 2 minutes for Q&A
 
