@@ -10,8 +10,9 @@ Hence, the aim of this abstract is to discuss state-of-the-art challenges and po
 [![slides](https://img.shields.io/badge/see-slides-blue.svg)](https://github.com/air4children/critter-hri2023/blob/pdfs/slides.pdf) 
 [![Compiling-TeX-Slides](https://github.com/air4children/critter-hri2023/actions/workflows/slides.yml/badge.svg)](https://github.com/air4children/critter-hri2023/actions/workflows/slides.yml) **(This work is 100% Reproducible with [free-cortex-framework](https://github.com/free-cortex/framework/tree/main/workflow))**
 
-## Slides
-3 minutes, with 2 minutes for Q&A
+## Slides 
+> 3 minutes, with 2 minutes for Q&A 
+![fig](slides/gif-slides/slides.gif)
 
 ## CRITTER: Child-Robot Interaction and Interdisciplinary Research Workshop (13th of March 2023, Stockholm, Sweden)
 https://child-robot-interaction.github.io/
